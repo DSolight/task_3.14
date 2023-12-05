@@ -2,7 +2,7 @@
 
 LICENSE: [Apache License 2.0](./license.md)
 
-![git_logo](./assets/Git-Logo-White.png)
+![git_logo](/assets/Git-Logo-2Color.png)
 
 ---
 
