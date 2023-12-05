@@ -7,7 +7,7 @@ LICENSE: [Apache License 2.0](./license.md)
 ---
 
 ## Оглавление
-1. История
+1. [История](/history/historytext.md)
 2. Функции GIT
    1. git add
    2. git push
