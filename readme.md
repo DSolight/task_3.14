@@ -9,6 +9,11 @@ LICENSE: [Apache License 2.0](./license.md)
 ## Оглавление
 1. История
 2. Функции GIT
+   1. git add
+   2. git push
+3. Файл .gitignore
+4. Лицензии
+5. 
 
 
 ---
